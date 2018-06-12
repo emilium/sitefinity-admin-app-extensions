@@ -1,0 +1,4 @@
+.k-editor-toolbar .k-i-Blockquote::before {
+    /* http://html5doctor.com/blockquote-q-cite/ */
+  content: "\201C \201D";
+}
